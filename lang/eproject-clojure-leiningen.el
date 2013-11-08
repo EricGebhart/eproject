@@ -1,4 +1,5 @@
 ;;; Author: Tung Dao <me@tungdao.com>
+(require 'eproject)
 
 ;; Clojure Leiningen project
 (define-project-type clojure-leiningen (generic)
